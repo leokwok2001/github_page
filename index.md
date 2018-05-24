@@ -1,6 +1,7 @@
 ##VM network configuration In windows 10
  1. wi fi properities / ICS (internet connection sharing)
  1. choose VMnet8(NAT) LAN card 
+
 ###In CentOs 7  
 
 ```bash

@@ -2,6 +2,8 @@
  1. wi fi properities / ICS (internet connection sharing)
  1. choose VMnet8(NAT) LAN card 
 
+[a relative link](README.md)
+
 ### In CentOs 7  
 
 ```bash

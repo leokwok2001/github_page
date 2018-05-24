@@ -1,8 +1,8 @@
-##VM network configuration In windows 10
+## VM network configuration In windows 10
  1. wi fi properities / ICS (internet connection sharing)
  1. choose VMnet8(NAT) LAN card 
 
-###In CentOs 7  
+### In CentOs 7  
 
 ```bash
 bashifup ens33
@@ -19,7 +19,7 @@ firwall-cmd --zone=public --add-port=8000/tcp --permanet
 ```
 
 [reference](https://janikarhunen.fi/how-to-install-python-3-6-1-on-centos-7.html)
-##Install the necessary utilities
+## Install the necessary utilities
 ```bash
 sudo yum update
 sudo yum install yum-utils

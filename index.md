@@ -4,6 +4,11 @@
 
 [a relative link](README.md)
 
+--- 
+title: My page 
+permalink: mypageurl.html 
+---
+
 ### In CentOs 7  
 
 ```bash
